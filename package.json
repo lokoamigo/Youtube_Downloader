@@ -1,0 +1,22 @@
+{
+  "name": "youtubedl",
+  "version": "1.0.0",
+  "description": "downloads videos on youtube",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokoamigo/Youtube_Downloader.git"
+  },
+  "author": "Frederic Frantzen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokoamigo/Youtube_Downloader/issues"
+  },
+  "homepage": "https://github.com/lokoamigo/Youtube_Downloader#readme",
+  "dependencies": {
+    "electron": "^7.1.2"
+  }
+}
