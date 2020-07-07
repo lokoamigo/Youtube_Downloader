@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/lokoamigo/Youtube_Downloader#readme",
   "dependencies": {
-    "electron": "^7.1.2"
+    "electron": "^7.2.4"
   }
 }
